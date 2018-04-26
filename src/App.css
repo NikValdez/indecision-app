@@ -1,0 +1,68 @@
+body {
+  background: #C5CAE9;
+}
+
+.delete {
+  float: right;
+  margin: 0 auto;
+}
+
+.card {
+  padding: 5px;
+  margin: 5px;
+}
+
+.btn {
+  margin: 15px;
+}
+
+.btn-info{
+  font-size: 30px;
+  color: #C5CAE9;
+  border: #303F9F;
+  background: #303F9F;
+}
+
+.btn-success {
+  color: #C5CAE9;
+  border: #303F9F;
+  background: #303F9F;
+}
+
+.btn-primary {
+  background: #7C4DFF;
+  border: #7C4DFF;
+  font-size: 30px;
+}
+
+h3, p{
+  color: white;
+  background: #303F9F;
+}
+
+
+.header {
+  margin-top: 5rem;
+  color: #303F9F;
+}
+
+.float-right:hover {
+    color: red;
+    background: white;
+}
+
+.react-modal {
+  color: #C5CAE9;
+  background: #303F9F;
+  height: 20rem;
+  width: 20rem;
+  text-align: center;
+  margin: 0 auto;
+  margin-top: 10rem;
+  padding-top: 5rem;
+  border-radius: 5px;
+}
+
+.form-control {
+  width: 70%;
+}
